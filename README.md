@@ -1,5 +1,6 @@
 # keycloak
 Keycloak in docker with cron backup 
+Колесник Артем, Б9120-09.03.04(2)
 Для поднятия keycloak использовался docker + docker compose, контейнеры описаны в docker-compose.yaml
 После запуска контейнеров с помощью команды docker-compose up -d получаем следующую структуру:
 <img width="1242" alt="image" src="https://github.com/Carecup/keycloak/assets/25736912/892f5fcc-4b30-4cd7-ba0a-63dd9d532719">
